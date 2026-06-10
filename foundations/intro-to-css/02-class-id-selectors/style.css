@@ -1,1 +1,20 @@
-/* Add CSS Styling */
+.class {
+    background-color: pink;
+    font: "Verdana" "DejaVu Sans";
+    font: 1em sans-serif;
+}
+
+.but-cooler{
+    font-size: 24px;
+}
+
+#one-id{
+    color: blue;
+    font-size: 36px;
+}
+
+#another-id{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
